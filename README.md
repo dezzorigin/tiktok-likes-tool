@@ -1,18 +1,39 @@
-# Tiktok Likes Tool
+# TikTok Likes Tool
 
-tiktok-likes-tool project.
+Tool untuk boost likes TikTok.
 
-## Tech stack
+## 📋 Tech Stack
 
 Node.js
 
-## Getting started
+## 📁 Struktur Proyek
 
-See project files for setup instructions.
+```
+tiktok-like-main/
+LICENSE
+PRD.md
+README.md
+```
 
-## License
+## 🚀 Getting Started
 
-MIT — see [LICENSE](./LICENSE).
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+> Untuk project HTML statis, cukup buka `index.html` di browser atau serve folder dengan static server.
+
+## 📊 Status Proyek
+
+Dalam pengembangan aktif.
+
+## 📄 Lisensi
+
+MIT — lihat [LICENSE](./LICENSE).
 
 ---
-_Maintained by dezzorigin._
+_Dikembangkan oleh **dezzorigin** (Nabil Aulia Dika)._
